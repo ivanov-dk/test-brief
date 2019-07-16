@@ -124,6 +124,7 @@ textarea {
 .manager-wrap input {
 	font-family: 'Montserrat';
 	color: #fff;
+	width: 100%;
 	border: 2px solid #fe0002;
 	background-color: rgba(56, 22, 0, 0.3);
 	outline: none;
