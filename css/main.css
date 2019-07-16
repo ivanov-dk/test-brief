@@ -116,6 +116,11 @@ textarea {
 	font-size: 20px;
 }
 
+.manager-wrap label {
+	max-width: 600px;
+	width: 100%;
+}
+
 .manager-wrap input {
 	font-family: 'Montserrat';
 	color: #fff;
@@ -123,8 +128,6 @@ textarea {
 	background-color: rgba(56, 22, 0, 0.3);
 	outline: none;
 	transition: 0.3s ease all;
-	max-width: 600px;
-	width: 100%;
 	padding: 6px 15px;
 }
 
